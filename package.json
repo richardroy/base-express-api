@@ -1,0 +1,22 @@
+{
+  "name": "base-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardroy/base-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardroy/base-express-api/issues"
+  },
+  "homepage": "https://github.com/richardroy/base-express-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
